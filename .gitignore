@@ -1,0 +1,12 @@
+
+\.idea/
+
+cmake-build-debug/CMakeFiles/
+
+*.o
+
+*.hex
+
+*.sh
+
+*.elf
